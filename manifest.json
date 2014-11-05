@@ -33,7 +33,10 @@
 		      "Crown Guardian", 
           "Nuclear Throne",
 		      "Horror"
-        ]
+        ],
+
+        "Success": [ "Victory" ]
+
       }
     },
 
