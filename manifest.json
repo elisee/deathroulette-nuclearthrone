@@ -1,0 +1,58 @@
+{
+  "title": "Nuclear Throne",
+  "hostBetId": "Hazards_Success_Victory",
+  "groups": {
+    "Hazards": {
+      "bets": 5,
+      "size": { "width": 50, "height": 50 },
+      "categories": {
+        "Monsters": [
+          "Bandit", "Maggot", "Giant Maggot", "Scorpion", "Golden Scorpion",
+		      "Rat", "Big Green Rat", "Small Green Rat", "Alligator", "Ballguy", "Toxic Ballguy", "Assassin", 
+    		  "Raven", "Fire Salamander", "Sniper", 
+		      "Crystal Spider", "Laser Crystal", 
+		      "Snow Bandit", "Snowbot", "Robot Wolf", "Snow Tank", 
+		      "Freak", "Explo Freak", "Rhino Freak", "Necromancer", 
+		      "Guardian", "Explo Guardian", "Dog Guardian", 
+		      "IDPD Grunt", "IDPD Inspector", "IDPD Shielder", 
+		      "Bonefish", "Hermit Crab", "Turtle", "Mole Fish", "Mole Sarge", "Fireballer", "Super Fireballer", "Jock", 
+		      "Mimic"
+        ],
+
+        "Traps and Accidents": [
+          "Explosion",
+          "Fire",
+          "Rebound",
+          "Toxic"
+        ],
+
+        "Bosses": [
+          "Big Bandit", 
+          "Big Dog",
+          "Lil' Hunter",
+		      "Crown Guardian", 
+          "Nuclear Throne",
+		      "Horror"
+        ]
+      }
+    },
+
+    "Zones": {
+      "bets": 1,
+      "size": { "width": 50, "height": 50 },
+      "all": [
+        "Desert",
+        "Sewers",
+        "Scrapyard",
+		    "Crystal Caves", 
+        "Frozen City",
+		    "Labs", 
+		    "The Palace", 
+		    "Oasis",
+		    "Pizza Sewers",
+		    "Y.V's Mansion", 
+		    "Crown Vault"
+      ]
+    }
+  }
+}
